@@ -15,6 +15,7 @@
 - 👨‍💻 As a ECE student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C, C++, Arduino, and Electronics, or anything related to Embedded system.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 🗣️   إِنْ أُرِيدُ إِلَّا الْإِصْلَاحَ مَا اسْتَطَعْتُ ۚ وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ 
 
 ### Connect with Me :
 
